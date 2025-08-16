@@ -1,6 +1,7 @@
 # Security & Compliance Reports / Relatórios de Segurança e Conformidade
 
 This category contains professional and simulated security and compliance projects, including audit reports, risk assessments, control checklists, and compliance studies. These projects demonstrate my ability to analyze IT systems, evaluate security posture, identify risks, and provide actionable recommendations to improve organizational security and ensure adherence to industry standards such as **PCI DSS, GDPR, and SOC**.
+
 Esta categoria contém projetos profissionais e simulados de segurança e conformidade, incluindo relatórios de auditoria, avaliações de risco, checklists de controles e estudos de conformidade. Esses projetos demonstram minha capacidade de analisar sistemas de TI, avaliar a postura de segurança, identificar riscos e fornecer recomendações práticas para melhorar a segurança organizacional e garantir conformidade com normas do setor, como **PCI DSS, GDPR e SOC**.
 
 ---
